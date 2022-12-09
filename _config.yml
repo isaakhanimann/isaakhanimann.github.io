@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: [PsychonautWiki Journal]
-description: [An app to make people who use drugs safer]
+description: [Track your consumption of psychoactive substances]

@@ -1,74 +1,33 @@
-# Android Download
+<img alt='Screenshot 0' src='images/android screenshots/screenshot 0.png' width='33%'/>
+<img alt='Screenshot 1' src='images/android screenshots/screenshot 1.png' width='33%'/>
+<img alt='Screenshot 2' src='images/android screenshots/screenshot 2.png' width='33%'/>
+<img alt='Screenshot 3' src='images/android screenshots/screenshot 3.png' width='33%'/>
+<img alt='Screenshot 4' src='images/android screenshots/screenshot 4.png' width='33%'/>
+<img alt='Screenshot 5' src='images/android screenshots/screenshot 5.png' width='33%'/>
 
-<img alt='Download on the App Store' src='images/android-screenshots.png' width='100%'/>
-<a href="app-release.apk" download>Click to Download Version 1</a>
----
-# iOS Download
+## Android Download (Version 1.0)
 
-<a href='https://apps.apple.com/ch/app/psychonautwiki-journal/id1582059415'>
-<img alt='Download on the App Store' src='images/badge-appstore.svg' width='25%'/>
-</a>
+<a href="journal-version-1-0.apk" download><img alt='Download on the App Store' src='images/download-android.png' width='40%'/></a>
 
+### Enable Installation
 
+1. <img alt='Keep anyway' src='images/installing unknown apps/step1.png' width='50%'/>
+1. <img alt='Open' src='images/installing unknown apps/step2.png' width='50%'/>
+1. <img alt='Go to settings' src='images/installing unknown apps/step3.png' width='50%'/>
+1. <img alt='Allow for this source' src='images/installing unknown apps/step4.png' width='50%'/>
+1. <img alt='Install' src='images/installing unknown apps/step5.png' width='50%'/>
+1. <img alt='Done' src='images/installing unknown apps/step6.png' width='50%'/>
 
-## Emphasis
+### Manually Adjust Settings (Alternative)
+If it looks any different you need to go into settings to enable the installation of apps of unknown sources:
 
-**This is bold text**
-
-__This is bold text__
-
-*This is italic text*
-
-_This is italic text_
-
-
-## Lists
-
-Unordered
-
-+ Create a list by starting a line with `+`, `-`, or `*`
-+ Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    * Ac tristique libero volutpat at
-    + Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-+ Very easy!
-
-Ordered
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
+- On devices running Android 8.0 (API level 26) and higher, users must navigate to the Install unknown apps system settings screen to enable app installations from a particular source.
+- On devices running Android 7.1.1 (API level 25) and lower, users must either enable the Unknown sources system setting or allow a single installation of an unknown app.
 
 
-1. You can use sequential numbers...
-1. ...or keep all the numbers as `1.`
+## iOS Download
 
-Start numbering with offset:
-
-57. foo
-1. bar
+<a href='https://apps.apple.com/ch/app/psychonautwiki-journal/id1582059415'><img alt='Download on the App Store' src='images/badge-appstore.svg' width='40%'/></a>
 
 
-
-## Links
-
-[link text](http://dev.nodeca.com)
-
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
-
-Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
-
-
-## Images
-
-![Minion](https://octodex.github.com/images/minion.png)
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
-
-Like links, Images also have a footnote style syntax
-
-![Alt text][id]
-
-With a reference later in the document defining the URL location:
-
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
+####To unlock all substances go to Settings, find the closed eye: <img alt='Closed Eye' src='images/eye-closed.png' width='20%'/> and triple tap it quickly.
