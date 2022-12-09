@@ -1,22 +1,15 @@
-<img alt='Screenshot 0' src='images/android screenshots/screenshot 0.png' width='33%'/>
-<img alt='Screenshot 1' src='images/android screenshots/screenshot 1.png' width='33%'/>
-<img alt='Screenshot 2' src='images/android screenshots/screenshot 2.png' width='33%'/>
-<img alt='Screenshot 3' src='images/android screenshots/screenshot 3.png' width='33%'/>
-<img alt='Screenshot 4' src='images/android screenshots/screenshot 4.png' width='33%'/>
-<img alt='Screenshot 5' src='images/android screenshots/screenshot 5.png' width='33%'/>
+# Android Download (Version 1.0)
 
-## Android Download (Version 1.0)
-
-<a href="journal-version-1-0.apk" download><img alt='Download on the App Store' src='images/download-android.png' width='40%'/></a>
+<a href="journal-version-1-0.apk" download><img alt='Download on the App Store' src='images/download-android.png' width='70%'/></a>
 
 ### Enable Installation
 
-1. <img alt='Keep anyway' src='images/installing unknown apps/step1.png' width='50%'/>
-1. <img alt='Open' src='images/installing unknown apps/step2.png' width='50%'/>
-1. <img alt='Go to settings' src='images/installing unknown apps/step3.png' width='50%'/>
-1. <img alt='Allow for this source' src='images/installing unknown apps/step4.png' width='50%'/>
-1. <img alt='Install' src='images/installing unknown apps/step5.png' width='50%'/>
-1. <img alt='Done' src='images/installing unknown apps/step6.png' width='50%'/>
+1. <img alt='Keep anyway' src='images/installing unknown apps/step1.png' width='90%'/>
+1. <img alt='Open' src='images/installing unknown apps/step2.png' width='90%'/>
+1. <img alt='Go to settings' src='images/installing unknown apps/step3.png' width='90%'/>
+1. <img alt='Allow for this source' src='images/installing unknown apps/step4.png' width='90%'/>
+1. <img alt='Install' src='images/installing unknown apps/step5.png' width='90%'/>
+1. <img alt='Done' src='images/installing unknown apps/step6.png' width='90%'/>
 
 ### Manually Adjust Settings (Alternative)
 If it looks any different you need to go into settings to enable the installation of apps of unknown sources:
@@ -24,10 +17,21 @@ If it looks any different you need to go into settings to enable the installatio
 - On devices running Android 8.0 (API level 26) and higher, users must navigate to the Install unknown apps system settings screen to enable app installations from a particular source.
 - On devices running Android 7.1.1 (API level 25) and lower, users must either enable the Unknown sources system setting or allow a single installation of an unknown app.
 
+---
+# iOS Download
 
-## iOS Download
-
-<a href='https://apps.apple.com/ch/app/psychonautwiki-journal/id1582059415'><img alt='Download on the App Store' src='images/badge-appstore.svg' width='40%'/></a>
+<a href='https://apps.apple.com/ch/app/psychonautwiki-journal/id1582059415'><img alt='Download on the App Store' src='images/badge-appstore.svg' width='70%'/></a>
 
 
-####To unlock all substances go to Settings, find the closed eye: <img alt='Closed Eye' src='images/eye-closed.png' width='20%'/> and triple tap it quickly.
+###To unlock all substances go to Settings, find the closed eye and triple tap it quickly.
+
+<img alt='Closed Eye' src='images/eye-closed.png' width='20%'/>
+
+
+## Android App Images
+<img alt='Screenshot 0' src='images/android screenshots/screenshot 0.png' width='45%'/>
+<img alt='Screenshot 1' src='images/android screenshots/screenshot 1.png' width='45%'/>
+<img alt='Screenshot 2' src='images/android screenshots/screenshot 2.png' width='90%'/>
+<img alt='Screenshot 3' src='images/android screenshots/screenshot 3.png' width='45%'/>
+<img alt='Screenshot 4' src='images/android screenshots/screenshot 4.png' width='45%'/>
+<img alt='Screenshot 5' src='images/android screenshots/screenshot 5.png' width='90%'/>
