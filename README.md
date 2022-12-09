@@ -12,12 +12,13 @@
 <p align="center"><img alt='Done' src='images/installing unknown apps/step6.png' width='90%'/></p>
 
 ## Manually Adjust Settings (Alternative)
-If it looks any different you need to go into settings to enable the installation of apps of unknown sources:
+
+Enabling the installation of apps of unknown sources works differently depending on the Android version of your phone:
 
 - On devices running Android 8.0 (API level 26) and higher, users must navigate to the Install unknown apps system settings screen to enable app installations from a particular source.
 - On devices running Android 7.1.1 (API level 25) and lower, users must either enable the Unknown sources system setting or allow a single installation of an unknown app.
 
----
+
 # iOS Download
 
 <p align="center"><a href='https://apps.apple.com/ch/app/psychonautwiki-journal/id1582059415'><img alt='Download on the App Store' src='images/badge-appstore.svg' width='90%'/></a></p>
@@ -27,7 +28,7 @@ If it looks any different you need to go into settings to enable the installatio
 
 <p align="center"><img alt='Closed Eye' src='images/eye-closed.png' width='20%'/></p>
 
----
+
 ## Android App Images
 
 <p align="center"><img alt='Screenshot 0' src='images/android screenshots/screenshot 0.png' width='45%'/>
