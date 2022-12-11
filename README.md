@@ -2,6 +2,9 @@
 
 <p align="center"><a href="app-release.apk" download><img alt='Download on the App Store' src='images/download-android.png' width='90%'/></a></p>
 
+You must navigate to the **Install unknown apps** system settings screen to enable app installations from a particular source e.g. your Browser.
+
+
 ## Enable Installation
 
 <p align="center"><img alt='Keep anyway' src='images/installing unknown apps/step1.png' width='90%'/></p>
@@ -10,13 +13,6 @@
 <p align="center"><img alt='Allow for this source' src='images/installing unknown apps/step4.png' width='90%'/></p>
 <p align="center"><img alt='Install' src='images/installing unknown apps/step5.png' width='90%'/></p>
 <p align="center"><img alt='Done' src='images/installing unknown apps/step6.png' width='90%'/></p>
-
-## Manually Adjust Settings (Alternative)
-
-Enabling the installation of apps of unknown sources works differently depending on the Android version of your phone:
-
-- On devices running Android 8.0 (API level 26) and higher, users must navigate to the Install unknown apps system settings screen to enable app installations from a particular source.
-- On devices running Android 7.1.1 (API level 25) and lower, users must either enable the Unknown sources system setting or allow a single installation of an unknown app.
 
 
 # iOS Download
