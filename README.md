@@ -1,6 +1,6 @@
 # Android Download (Version 1.0)
 
-<p align="center"><a href="journal-version-1-0.apk" download><img alt='Download on the App Store' src='images/download-android.png' width='90%'/></a></p>
+<p align="center"><a href="app-release.apk" download><img alt='Download on the App Store' src='images/download-android.png' width='90%'/></a></p>
 
 ## Enable Installation
 
