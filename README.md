@@ -2,7 +2,7 @@
 
 <p align="center"><a href="app-release.apk" download><img alt='Download on the App Store' src='images/download-android.png' width='90%'/></a></p>
 
-- Requires Android 8.0 (API level 26) and higher.
+- Requires Android 8.0 (API level 26) or higher.
 - Navigate to the **Install unknown apps** system settings screen to enable app installation from your source e.g. your Browser.
 
 
