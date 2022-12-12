@@ -2,7 +2,8 @@
 
 <p align="center"><a href="app-release.apk" download><img alt='Download on the App Store' src='images/download-android.png' width='90%'/></a></p>
 
-You must navigate to the **Install unknown apps** system settings screen to enable app installations from a particular source e.g. your Browser.
+- Requires Android 8.0 (API level 26) and higher.
+- Navigate to the **Install unknown apps** system settings screen to enable app installation from the source e.g. your Browser.
 
 
 ## Enable Installation
