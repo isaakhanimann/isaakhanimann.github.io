@@ -7,7 +7,7 @@
 
 [Source Code](https://github.com/isaakhanimann/psychonautwiki-journal-android)
 
-## Enable Installation
+## Enable Installation From Chrome (Same for Firefox)
 
 <p align="center"><img alt='Keep anyway' src='images/installing unknown apps/step1.png' width='90%'/></p>
 <p align="center"><img alt='Open' src='images/installing unknown apps/step2.png' width='90%'/></p>
