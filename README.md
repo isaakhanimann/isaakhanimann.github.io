@@ -1,4 +1,4 @@
-# Android Download (Version 2.3)
+# Android Download (Version 3.0)
 
 <p align="center"><a href="app-release.apk" download><img alt='Download on the App Store' src='images/download-android.png' width='90%'/></a></p>
 
