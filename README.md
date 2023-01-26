@@ -7,16 +7,6 @@
 
 [Source Code](https://github.com/isaakhanimann/psychonautwiki-journal-android)
 
-## Enable Installation From Chrome (Same for Firefox)
-
-<p align="center"><img alt='Keep anyway' src='images/installing unknown apps/step1.png' width='90%'/></p>
-<p align="center"><img alt='Open' src='images/installing unknown apps/step2.png' width='90%'/></p>
-<p align="center"><img alt='Go to settings' src='images/installing unknown apps/step3.png' width='90%'/></p>
-<p align="center"><img alt='Allow for this source' src='images/installing unknown apps/step4.png' width='90%'/></p>
-<p align="center"><img alt='Install' src='images/installing unknown apps/step5.png' width='90%'/></p>
-<p align="center"><img alt='Done' src='images/installing unknown apps/step6.png' width='90%'/></p>
-
-
 # iOS Download
 
 <p align="center"><a href='https://apps.apple.com/ch/app/psychonautwiki-journal/id1582059415'><img alt='Download on the App Store' src='images/badge-appstore.svg' width='90%'/></a></p>
