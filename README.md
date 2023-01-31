@@ -1,9 +1,8 @@
-# Android Download (Version 4.0)
+# Android Download
+<p align="center"><a href='https://play.google.com/store/apps/details?id=com.isaakhanimann.journal'><img alt='Download on the Play Store' src='images/googleplay.png' width='90%'/></a></p>
 
-<p align="center"><a href="app-release.apk" download><img alt='Download on the App Store' src='images/download-android.png' width='90%'/></a></p>
-
-- Requires Android 8.0 (API level 26) or higher.
-- Navigate to the **Install unknown apps** system settings screen to enable app installation from your source e.g. your Browser.
+If you have downloaded the Android apk directly from this website you need to uninstall the app and install it from the Google Play store.
+To keep your data you must first download <a href="app-release.apk" download>this version</a> (Version 4.0) and export your data in settings. You can then import the data again once you have installed the Play store version.
 
 [Source Code](https://github.com/isaakhanimann/psychonautwiki-journal-android)
 
